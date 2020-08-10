@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+    .slicknav_menu {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    #menu {
+        display: none;
+    }
+    .attention {
+        display: none;
+    }
+}
